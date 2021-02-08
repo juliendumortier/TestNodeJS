@@ -1,0 +1,14 @@
+{
+  "name": "js-dev-test",
+  "version": "1.0.0",
+  "description": "Javascript developer test",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Julien Dumortier"
+}
